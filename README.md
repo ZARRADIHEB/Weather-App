@@ -1,6 +1,7 @@
 # 🌦️ Weather App
 
-<a href="https://iz17-weatherapp.netlify.app/" target="_blank">🔗 Live Demo</a>
+## 🚀 Live Demo
+👉 [Click here to view the project](https://iz17-weatherapp.netlify.app/)
 
 
 A simple and modern **Weather Application** built using **HTML, CSS, and JavaScript**.  
