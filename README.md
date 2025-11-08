@@ -33,8 +33,13 @@ It allows users to search for any city worldwide and instantly view the current 
 
 Weather-App/
 │
+
 ├── favicon_io/ # Favicon resources
+
 ├── icons/ # Weather icons
+
 ├── index.html # Main HTML file
+
 ├── style.css # Styling
+
 └── script.js # Main JavaScript logic
