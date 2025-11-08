@@ -1,6 +1,7 @@
 # 🌦️ Weather App
 
-**Live Demo:** [https://iz17-weatherapp.netlify.app/](https://iz17-weatherapp.netlify.app/)
+<a href="https://iz17-weatherapp.netlify.app/" target="_blank">🔗 Live Demo</a>
+
 
 A simple and modern **Weather Application** built using **HTML, CSS, and JavaScript**.  
 It allows users to search for any city worldwide and instantly view the current weather conditions such as temperature, humidity, and wind speed — powered by real-time weather data.
